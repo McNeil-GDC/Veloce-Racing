@@ -1,2 +1,2 @@
-# Corsa Racing
-This is the central repository for Corsa Racing.
+# Veloce Racing
+This is the central repository for Veloce Racing.
