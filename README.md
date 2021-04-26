@@ -2,11 +2,12 @@
 This is the central repository for Veloce Racing.
 
 ## Project Structure
-- **0B-PartA**
+- **Tutorial 0B-PartA**
 	- Contains the project files for the first starter project of Tutorial 0B (blocks falling)
-- **0B-PartB**
+- **Tutorial 0B-PartB**
 	- Contains the project files for the second starter project of Tutorial 0B (starting Veloce Racing)
-
+- **Tutorial 1**
+	- Contains the project files for the Veloce Racing project of Tutorial 1 (Scripting, Input, and Movement)
 ## License
     Copyright 2021 McNeil Game Development Club and contributors.
 
